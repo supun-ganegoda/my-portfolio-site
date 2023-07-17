@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import Home from "./components/Home";
 import Aboutme from "./components/Aboutme";
 import Interests from "./components/Interests";
+import PortPolio from "./components/Portfolio";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Home />
         <Aboutme />
         <Interests />
+        <PortPolio />
       </Router>
     </>
   );

@@ -26,7 +26,7 @@
   grid-template-columns: repeat(auto-fit, minmax(250px, auto));
   align-items: center;
   gap: 2.5rem;
-  margin-top: 5rem;
+  margin-top: 2rem;
 }
 .box {
   background: var(--bg-color);
