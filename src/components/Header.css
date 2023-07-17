@@ -43,7 +43,7 @@ span {
 @media (max-width: 1150px) {
   .header {
     justify-content: space-between;
-    padding: 12px 2%;
+    padding: 10px;
     transition: 1s;
   }
   .logo {
@@ -55,31 +55,36 @@ span {
     margin-right: 12px;
     display: block;
   }
+  .menu-icon i:hover {
+    cursor: pointer;
+  }
   .navlist {
+    display: none;
+  }
+  .navlist-mobile {
     position: absolute;
-    top: -1000px;
+    top: 72px;
     right: 0;
     left: 0;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     background: var(--bg-color);
-    text-align: left;
+    color: var(--text-color);
+    text-align: center;
     transition: all 0.45s ease;
   }
-  .navlist a {
+  .navlist-mobile a {
     display: block;
     margin: 17px;
     font-size: 20px;
     transition: all 0.45s ease;
     color: var(--text-color);
   }
-  .navlist a:hover {
+  .navlist-mobile a:hover {
     color: var(--main-color);
   }
-  .navlist a.active {
+  .navlist-mobile a.active {
     color: var(--text-color);
-  }
-  .navlist.open {
-    top: 100%;
   }
 }

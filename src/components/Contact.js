@@ -22,7 +22,7 @@ const Contact = () => {
             <i className="bx bxl-facebook"></i>
           </a>
           <a href="#linkdin">
-            <i class="bx bxl-linkedin"></i>
+            <i className="bx bxl-linkedin"></i>
           </a>
           <a href="#instgram">
             <i className="bx bxl-instagram"></i>
