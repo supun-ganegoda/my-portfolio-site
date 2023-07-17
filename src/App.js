@@ -6,6 +6,7 @@ import Aboutme from "./components/Aboutme";
 import Interests from "./components/Interests";
 import PortPolio from "./components/Portfolio";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Interests />
         <PortPolio />
         <Contact />
+        <Footer />
       </Router>
     </>
   );
