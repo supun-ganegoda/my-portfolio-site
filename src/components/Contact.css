@@ -86,3 +86,14 @@ form textarea {
   transform: scale(1.1);
   cursor: pointer;
 }
+
+@media (max-width: 1480px) {
+  .contact {
+    padding: 14px 3% 20px;
+  }
+}
+@media (max-width: 920px) {
+  .contact {
+    grid-template-columns: 1fr;
+  }
+}

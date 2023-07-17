@@ -27,6 +27,9 @@ const Header = () => {
           <a href="#contact">Contact me</a>
         </li>
       </ul>
+      <div className="menu-icon">
+        <i className="bx bx-menu"></i>
+      </div>
     </div>
   );
 };

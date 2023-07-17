@@ -54,3 +54,9 @@
   transform: translateY(-8px);
   cursor: pointer;
 }
+
+@media (max-width: 1480px) {
+  .interests {
+    padding: 14px 3% 60px;
+  }
+}

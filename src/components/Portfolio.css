@@ -6,7 +6,7 @@
 .portfolio-content {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(350px, auto));
-  grid-template-rows: 250px;
+  /* grid-template-rows: 250px; */
   align-items: center;
   gap: 2.5rem;
   margin-top: 2rem;
@@ -75,4 +75,10 @@
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
   gap: 2.5rem;
+}
+
+@media (max-width: 1480px) {
+  .portfolio {
+    padding: 14px 3% 60px;
+  }
 }

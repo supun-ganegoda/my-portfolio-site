@@ -4,7 +4,7 @@ const Aboutme = () => {
   return (
     <div className="about" id="about">
       <div className="about-img">
-        <img src="Profile.png" alt="profile"></img>
+        <img src="pic2.jpg" alt="profile"></img>
       </div>
       <div className="about-text">
         <h3>

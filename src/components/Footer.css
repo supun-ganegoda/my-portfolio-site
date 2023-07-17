@@ -18,3 +18,8 @@
   font-size: 25px;
   color: var(--text-color);
 }
+@media (max-width: 1480px) {
+  .end {
+    padding: 15px 3%;
+  }
+}
