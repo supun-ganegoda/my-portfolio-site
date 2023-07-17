@@ -7,9 +7,9 @@ const Aboutme = () => {
         <img src="Profile.png" alt="profile"></img>
       </div>
       <div className="about-text">
-        <h2>
+        <h3>
           About <span>me</span>
-        </h2>
+        </h3>
         <h4>Web Developer</h4>
         <p>
           I'm a 3rd year undergraduate of Electrical and Information Engineering
