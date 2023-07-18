@@ -23,7 +23,7 @@ const Aboutme = () => {
           asset to any software development team looking to build innovative and
           engaging user experiences
         </p>
-        <a href="#" className="btn">
+        <a href="#more-about" className="btn">
           More About
         </a>
       </div>
