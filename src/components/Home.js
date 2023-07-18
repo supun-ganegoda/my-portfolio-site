@@ -10,14 +10,19 @@ const Home = () => {
         </div>
         <h1>Supun Ganegoda</h1>
         <h3>
-          Engineering<span> Undergraduate</span>
+          Computer<span> Enthusiast</span>
         </h3>
         <p>
-          I'm currently studying as a 3rd year engineering undergrduate <br />
-          at <br />
-          Department of Electrical and Information Engineering, <br />
-          Faculty of Engineering, <br />
-          University of Ruhuna.
+          Eager and determined, I am a highly motivated individual in pursuit of
+          diverse opportunities to demonstrate my unwavering passion and
+          relentless perseverance across the realms of <br />
+          <strong>software engineering </strong>
+          <br />
+          <strong>cyber-security </strong>
+          <br /> <strong>artificial intelligence</strong> <br /> With a profound
+          fascination for cutting-edge technologies, I am enthusiastic about
+          taking on challenges that push the boundaries of innovation and
+          problem-solving.
         </p>
         <div className="button">
           <a href="#aboutme" className="btn">

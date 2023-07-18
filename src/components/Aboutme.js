@@ -4,13 +4,13 @@ const Aboutme = () => {
   return (
     <div className="about" id="about">
       <div className="about-img">
-        <img src="pic2.jpg" alt="profile"></img>
+        <img src=".\img\pic2.jpg" alt="profile"></img>
       </div>
       <div className="about-text">
         <h3>
           About <span>me</span>
         </h3>
-        <h4>Web Developer</h4>
+        <h4>Electrical and Information Engineering Undergraduate</h4>
         <p>
           I'm a 3rd year undergraduate of Electrical and Information Engineering
           at the University of Ruhuna. With a passion for software development,
