@@ -49,6 +49,7 @@
 .layer p {
   color: var(--bg-color);
   font-size: 1rem;
+  font-weight: 400;
   line-height: 1.8;
 }
 .layer i {

@@ -12,11 +12,14 @@
   align-items: center;
   justify-content: flex-start;
 }
-
-.home-text h1:hover {
+.home-header {
+  display: flex;
+  align-items: center;
+}
+/* .home-text h1:hover {
   -webkit-text-stroke: 1px var(--text-color);
   -webkit-text-fill-color: transparent;
-}
+} */
 .slide {
   margin-top: 100px;
   margin-bottom: 20px;
